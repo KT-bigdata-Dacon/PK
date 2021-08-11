@@ -1,0 +1,23 @@
+# Dacon_2021 빅데이터 통신 플랫폼 경진대회
+
+
+
+## 주제 : 코로나 시대와 함께하는 국민의 음식, 배달 문화 변화에 대한 시각화 처리
+
+- 진행기간 : 2021.08.11 ~ 2021.08.26
+
+- 프로젝트 유형 : 팀 프로젝트
+
+- 팀원 : 박성준,  김시현
+
+- 데이터 : Dacon 제공 데이터 외 KT-통신 빅데이터 플랫폼 날씨 데이터 활용
+  - [데이콘 데이터](https://dacon.io/competitions/official/235753/data)
+  - [KT 통신 빅데이터 플랫폼](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=KGUWETHERINFO)
+  - [행정동 경계 데이터](https://github.com/vuski/admdongkor)
+
+
+
+### **박성준 주요 수행사항**
+
+- EDA 시각화
+- 데이터 전처리
